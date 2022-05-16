@@ -1,0 +1,5 @@
+name: UnbreakablePatch
+version: '${project.version}'
+main: me.txmc.unbreakablepatch.UnbreakablePatch
+authors: [ 254n_m ]
+description: Remove unbreakable items
